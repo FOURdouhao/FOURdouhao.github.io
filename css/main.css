@@ -457,7 +457,7 @@ td {
 }
 .highlight,
 pre {
-  background: #2d2d2d;
+  background: #252525;
   color: #ccc;
   line-height: 1.6;
   margin: 0 auto 20px;
@@ -492,7 +492,7 @@ code {
   padding: 0;
 }
 .highlight figcaption {
-  background: #1b1b1b;
+  background: #161616;
   color: #ccc;
   display: flex;
   font-size: 0.875em;
@@ -513,14 +513,14 @@ code {
   user-select: none;
 }
 .highlight .gutter pre {
-  background: #1b1b1b;
+  background: #161616;
   color: #999;
   padding-left: 10px;
   padding-right: 10px;
   text-align: right;
 }
 .highlight .code pre {
-  background: #2d2d2d;
+  background: #252525;
   padding-left: 10px;
   width: 100%;
 }
@@ -1241,7 +1241,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #501bff;
+  background: #9163ff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
